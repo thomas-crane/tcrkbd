@@ -12,7 +12,7 @@ fi
 echo "Building firmware..."
 docker run \
   --name $BUILDER_NAME \
-  -v $WD/kb_firmware:/qmk_firmware/keyboards/crkbd/keymaps/tcrane \
+  -v $WD/firmware:/qmk_firmware/keyboards/crkbd/keymaps/tcrane \
   qmkfm/qmk_firmware \
   make crkbd:tcrane
 
