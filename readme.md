@@ -2,7 +2,7 @@
 
 This repo contains the firmware for my [Corne keyboard][crkbd_repo].
 
-![A picture of the keyboard][logo]
+![A picture of the keyboard][pic]
 
 ## Specs
 
@@ -106,7 +106,7 @@ As for switches and keycaps, I used https://kbdfans.com/ but there are plenty of
 get these parts.
 
 
-[pic]: assets/tcrkbd.jpg "A picture of the keyboard."
+[pic]: assets/tcrkbd_sm.jpg "A picture of the keyboard."
 [crkbd_repo]: https://github.com/foostan/crkbd
 
 [pcb]: https://www.littlekeyboards.com/collections/corne-pcb-kits/products/crkbd-classic-essentials-kit
